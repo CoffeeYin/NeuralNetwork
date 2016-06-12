@@ -170,6 +170,7 @@ int main(void)
         confusion.save("../data/confusion.dat");
 
         return(0);
+        
     }
     catch(std::exception& e)
     {
